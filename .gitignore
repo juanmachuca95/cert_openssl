@@ -1,0 +1,8 @@
+ca-cert.pem
+ca-key.pem
+
+server-cert.pem
+server-ext.cnf
+
+server-key.pem
+server-req.pem
